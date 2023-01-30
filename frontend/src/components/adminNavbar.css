@@ -1,0 +1,8 @@
+.adminNavbar div{
+    transition: all 0.5s ease-out;
+}
+
+.adminNavbar div:hover{
+    background-color: rgb(169, 58, 58);
+    transition: all 0.5s ease-out;
+}
